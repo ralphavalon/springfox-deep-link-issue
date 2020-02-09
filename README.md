@@ -2,7 +2,7 @@
 
 - It starts with Springfox version 2.9.2 (which deep linking doesn't work).
 
-- After starting the application, calling the URL (it would be better call on anonymous browser and then close after calling it):
+- After starting the application, calling the URL (it would be better call on incognito mode and then close after calling it):
 
 http://localhost:8080/swagger-ui.html#/some-controller/deepLinkUsingGET
 
